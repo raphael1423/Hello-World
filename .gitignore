@@ -1,5 +1,7 @@
 # Prerequisites
 *.d
+include<iostream>
+using namespace std;
 
 # Compiled Object files
 *.slo
